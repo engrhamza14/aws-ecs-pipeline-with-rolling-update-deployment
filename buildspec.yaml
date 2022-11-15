@@ -5,7 +5,7 @@ env:
   variables:
     AWS_REGION: us-east-1
     AWS_ACCOUNT_ID: 483847144693
-    IMAGE_NAME: aws-pipeline-with-ecs-rolling-update-deployment-image
+    IMAGE_NAME: simple-app-image
     CONTAINER_NAME: ecs-rolling-update-container
 
 
